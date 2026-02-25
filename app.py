@@ -58,7 +58,7 @@ def run_graph(messages: list, thread_id: str) -> str:
 
 # ── 4. Streamlit UI ───────────────────────────────────────────────────────────
 
-st.title("📚 Prompt-based RAG Agent")
+st.title("🌍Your Visa Advisor🤖")
 
 # ── Session seed (stable per browser session) ────────────────────────────────
 if "session_seed" not in st.session_state:
