@@ -12,7 +12,7 @@ import uuid
 import streamlit as st
 
 # ── 0. Page config — must be the very first Streamlit call ───────────────────
-st.set_page_config(page_title="Prompt-based RAG Agent", page_icon="📚")
+st.set_page_config(page_title="Visa and Immigration Advice", page_icon="🌐")
 
 # ── 1. Load configuration before importing the agent ────────────────────────
 
